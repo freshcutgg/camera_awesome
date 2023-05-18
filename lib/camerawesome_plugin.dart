@@ -14,8 +14,11 @@ export 'src/orchestrator/analysis/analysis_controller.dart';
 export 'src/orchestrator/models/models.dart';
 export 'src/orchestrator/models/sensor_type.dart';
 export 'src/orchestrator/models/sensors.dart';
+export 'src/orchestrator/models/sensor_config.dart';
 export 'src/orchestrator/states/states.dart';
+export 'src/orchestrator/camera_context.dart';
 export 'src/widgets/camera_awesome_builder.dart';
+export 'pigeon.dart';
 
 // built in widgets
 export 'src/widgets/widgets.dart';
